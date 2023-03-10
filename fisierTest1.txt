@@ -1,0 +1,159 @@
+Time: 0
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 1
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 2
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 3
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 4
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 5
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 6
+Task-uri in asteptare:: (1,7,2); (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 7
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: (1,7,2); 
+Server 2: inchis
+
+Time: 8
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: (1,7,1); 
+Server 2: inchis
+
+Time: 9
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 10
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 11
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 12
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 13
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 14
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 15
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 16
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 17
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 18
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 19
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 20
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 21
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 22
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 23
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 24
+Task-uri in asteptare:: (2,25,2); (3,27,2); (4,27,3); 
+Server 1: inchis
+Server 2: inchis
+
+Time: 25
+Task-uri in asteptare:: (3,27,2); (4,27,3); 
+Server 1: (2,25,2); 
+Server 2: inchis
+
+Time: 26
+Task-uri in asteptare:: (3,27,2); (4,27,3); 
+Server 1: (2,25,1); 
+Server 2: inchis
+
+Time: 27
+Task-uri in asteptare:: 
+Server 1: (3,27,2); 
+Server 2: (4,27,3); 
+
+Time: 28
+Task-uri in asteptare:: 
+Server 1: (3,27,1); 
+Server 2: (4,27,2); 
+
+Time: 29
+Task-uri in asteptare:: 
+Server 1: inchis
+Server 2: (4,27,1); 
+
+Time: 30
+Task-uri in asteptare:: 
+Server 1: inchis
+Server 2: inchis
+
+Simularea s-a terminat mai devreme. Nu mai sunt task-uri de procesat.
+Timp mediu de asteptare: 3.5
+
+Timp mediu de servire: 2.25
